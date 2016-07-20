@@ -1,3 +1,1 @@
-Usage:
-
-java -jar Server.jar -rmp=8443
+Please refer to the documentation at https://www.securifera.com/projects/pwnbrew/
